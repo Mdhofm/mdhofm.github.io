@@ -16,7 +16,7 @@ body {
 }
 h1,
 h2 {
-    color: #007bff;
+    color: #71c77e;
 }
 .header {
     text-align: center;
@@ -29,7 +29,7 @@ h2 {
     font-size: 14px;
 }
 .contact a {
-    color: #007bff;
+    color: #71c77e;
     text-decoration: none;
 }
 .section {
@@ -37,7 +37,7 @@ h2 {
 }
 .section h2 {
     margin-bottom: 10px;
-    border-bottom: 2px solid #007bff;
+    border-bottom: 2px solid #71c77e;
     padding-bottom: 5px;
 }
 .item {
