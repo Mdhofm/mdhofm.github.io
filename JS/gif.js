@@ -5,7 +5,7 @@ const flexImg = document.getElementById('flex');
 const flexGif = document.getElementById('flex-gif');
 const body = document.getElementsByTagName('body'); 
 
-gridImg.addEventListener('mouseover', function(){
+gridImg.addEventListener('mouseenter', function(){
     gridImg.style.display = 'none';    
     gridGif.style.display = 'grid'; 
 });
@@ -15,7 +15,7 @@ gridImg.addEventListener('mouseleave', function(){
     gridGif.style.display = 'none';  
 });
 
-flexImg.addEventListener('mouseover', function(){
+flexImg.addEventListener('mouseenter', function(){
     flexImg.style.display = 'none';    
     flexGif.style.display = 'grid'; 
 });
